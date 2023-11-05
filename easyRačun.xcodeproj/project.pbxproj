@@ -11,6 +11,8 @@
 		A52E5BE82AF824F8000CA3CD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52E5BE72AF824F8000CA3CD /* ContentView.swift */; };
 		A52E5BEA2AF824FA000CA3CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A52E5BE92AF824FA000CA3CD /* Assets.xcassets */; };
 		A52E5BEE2AF824FA000CA3CD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A52E5BED2AF824FA000CA3CD /* Preview Assets.xcassets */; };
+		A52E5BF52AF82D94000CA3CD /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52E5BF42AF82D94000CA3CD /* DataModel.swift */; };
+		A53D53FC2AF834DE002A32FA /* items.json in Resources */ = {isa = PBXBuildFile; fileRef = A53D53FB2AF834DE002A32FA /* items.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		A52E5BE92AF824FA000CA3CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A52E5BEB2AF824FA000CA3CD /* easyRac_un.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = easyRac_un.entitlements; sourceTree = "<group>"; };
 		A52E5BED2AF824FA000CA3CD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A52E5BF42AF82D94000CA3CD /* DataModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataModel.swift; sourceTree = "<group>"; };
+		A53D53FB2AF834DE002A32FA /* items.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = items.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				A52E5BE52AF824F8000CA3CD /* easyRac_unApp.swift */,
 				A52E5BE72AF824F8000CA3CD /* ContentView.swift */,
+				A52E5BF42AF82D94000CA3CD /* DataModel.swift */,
+				A53D53FB2AF834DE002A32FA /* items.json */,
 				A52E5BE92AF824FA000CA3CD /* Assets.xcassets */,
 				A52E5BEB2AF824FA000CA3CD /* easyRac_un.entitlements */,
 				A52E5BEC2AF824FA000CA3CD /* Preview Content */,
@@ -129,6 +135,7 @@
 			files = (
 				A52E5BEE2AF824FA000CA3CD /* Preview Assets.xcassets in Resources */,
 				A52E5BEA2AF824FA000CA3CD /* Assets.xcassets in Resources */,
+				A53D53FC2AF834DE002A32FA /* items.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -141,6 +148,7 @@
 			files = (
 				A52E5BE82AF824F8000CA3CD /* ContentView.swift in Sources */,
 				A52E5BE62AF824F8000CA3CD /* easyRac_unApp.swift in Sources */,
+				A52E5BF52AF82D94000CA3CD /* DataModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
