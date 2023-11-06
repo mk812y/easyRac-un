@@ -12,6 +12,7 @@
 		A52E5BEA2AF824FA000CA3CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A52E5BE92AF824FA000CA3CD /* Assets.xcassets */; };
 		A52E5BEE2AF824FA000CA3CD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A52E5BED2AF824FA000CA3CD /* Preview Assets.xcassets */; };
 		A52E5BF52AF82D94000CA3CD /* DataModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A52E5BF42AF82D94000CA3CD /* DataModel.swift */; };
+		A52E6FAF2AF961CB0068A3EA /* CodeScanner in Frameworks */ = {isa = PBXBuildFile; productRef = A52E6FAE2AF961CB0068A3EA /* CodeScanner */; };
 		A53D53FC2AF834DE002A32FA /* items.json in Resources */ = {isa = PBXBuildFile; fileRef = A53D53FB2AF834DE002A32FA /* items.json */; };
 /* End PBXBuildFile section */
 
@@ -31,6 +32,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A52E6FAF2AF961CB0068A3EA /* CodeScanner in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -91,6 +93,9 @@
 			dependencies = (
 			);
 			name = "easyRačun";
+			packageProductDependencies = (
+				A52E6FAE2AF961CB0068A3EA /* CodeScanner */,
+			);
 			productName = "easyRačun";
 			productReference = A52E5BE22AF824F8000CA3CD /* easyRačun.app */;
 			productType = "com.apple.product-type.application";
@@ -119,6 +124,9 @@
 				Base,
 			);
 			mainGroup = A52E5BD92AF824F8000CA3CD;
+			packageReferences = (
+				A52E6FAD2AF961CB0068A3EA /* XCRemoteSwiftPackageReference "CodeScanner" */,
+			);
 			productRefGroup = A52E5BE32AF824F8000CA3CD /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -282,6 +290,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need to scan QR codes.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -320,6 +329,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "We need to scan QR codes.";
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -367,6 +377,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A52E6FAD2AF961CB0068A3EA /* XCRemoteSwiftPackageReference "CodeScanner" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/twostraws/CodeScanner";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.3.3;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A52E6FAE2AF961CB0068A3EA /* CodeScanner */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A52E6FAD2AF961CB0068A3EA /* XCRemoteSwiftPackageReference "CodeScanner" */;
+			productName = CodeScanner;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A52E5BDA2AF824F8000CA3CD /* Project object */;
 }
