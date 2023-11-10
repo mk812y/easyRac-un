@@ -21,6 +21,7 @@ struct Items: Codable, Hashable {
 
 struct Racun: Codable {
     let DateTime: String
+    let Link: String
     let Items: [Items]
 }
 
