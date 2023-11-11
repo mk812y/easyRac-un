@@ -14,10 +14,9 @@ struct ContentView: View {
     @State private var racunData: [Racun] = []
     
     var body: some View {
-        List(racunData.indices, id: \.self) { index in
-            let racun = racunData[index]
+        List(racunData.sorted { stringToDate($0.DateTime) > stringToDate($1.DateTime) }, id: \.self) { racun in
             VStack(alignment: .leading) {
-                Text("\(stringToDate(stringDate: racun.DateTime))")
+                Text("\(stringToDate(racun.DateTime).formatted(date: .abbreviated, time: .shortened))")
                 ForEach(racun.Items, id: \.self) { item in
                     Text("Name: \(item.Name)")
                     Text("Quantity: \(item.Quantity)")

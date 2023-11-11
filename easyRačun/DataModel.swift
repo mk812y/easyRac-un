@@ -19,7 +19,7 @@ struct Items: Codable, Hashable {
     let VatAmount: Double
 }
 
-struct Racun: Codable {
+struct Racun: Codable, Hashable {
     let DateTime: String
     let Link: String
     let Items: [Items]
@@ -59,14 +59,14 @@ class DataModel {
     }
 }
 
-func stringToDate(stringDate: String) -> Date {
+func stringToDate(_ stringDate: String) -> Date {
     let dateFormatter = DateFormatter()
     dateFormatter.dateFormat = "dd.MM.yyyy. HH:mm:ss"
     dateFormatter.timeZone = TimeZone(abbreviation: "CEST")
     
     if let date = dateFormatter.date(from: stringDate) {
         return date
-    } else { // Return a default date or handle the error appropriately
+    } else {
         return Date()
     }
 }
