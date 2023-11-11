@@ -3,10 +3,11 @@
 //  easyRačun
 //
 //  Created by Михаил Куприянов on 5.11.23..
-//
+// "DateTime": "18.10.2023. 18:39:29",
 
 import SwiftUI
 import CodeScanner
+import Foundation
 
 struct ContentView: View {
     @State private var isShowingScanner = false
@@ -16,8 +17,7 @@ struct ContentView: View {
         List(racunData.indices, id: \.self) { index in
             let racun = racunData[index]
             VStack(alignment: .leading) {
-                Text("Date and Time: \(racun.DateTime)")
-                    .font(.title3)
+                Text("\(stringToDate(stringDate: racun.DateTime))")
                 ForEach(racun.Items, id: \.self) { item in
                     Text("Name: \(item.Name)")
                     Text("Quantity: \(item.Quantity)")

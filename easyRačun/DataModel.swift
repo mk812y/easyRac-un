@@ -59,3 +59,14 @@ class DataModel {
     }
 }
 
+func stringToDate(stringDate: String) -> Date {
+    let dateFormatter = DateFormatter()
+    dateFormatter.dateFormat = "dd.MM.yyyy. HH:mm:ss"
+    dateFormatter.timeZone = TimeZone(abbreviation: "CEST")
+    
+    if let date = dateFormatter.date(from: stringDate) {
+        return date
+    } else { // Return a default date or handle the error appropriately
+        return Date()
+    }
+}
