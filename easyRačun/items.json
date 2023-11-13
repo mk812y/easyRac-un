@@ -4735,5 +4735,1030 @@
                 "VatAmount": 166.5
             }
         ]
+    },
+    {
+        "DateTime": "13.11.2023. 16:14:46",
+        "Link": "https://suf.purs.gov.rs/v/?vl=AzM5M1FBN0hXMzkzUUE3SFc1GAAAHBgAAPBbfAAAAAAAAAABi8k%2F1nAAAABZUo6gzNdLGWEU8YjoEZkJOFq0HDqhE8nD6dBX2IEqNOkGHYJTrvsoj%2BUnhRQ2trJz1A406BcBxuAh9Gu7Av2pmAsNRUsXPsLYGujWoRWKKj8UXIaf%2Boru%2BpGv1Ds3bDHQn%2F1WMZfgZrF5l9t1i1YOiZaFaNUDqyhUtGVE9eP0Yq%2Ft8ZtQvE%2FKY4zLz%2F9%2ByZBZfvc%2F%2B7TJs%2BkoQrcu6cMZqOAeFfoG3itatzPHciGxDa6dFsW0HecOaQArOCc6A0LaN4CaeC3knwhzDrgZRgsUC6zT9apZgcolIHg%2FhkOOmuiRk81KaCFXJgawfCulR2%2BdMjfz1uetsbwmyczJdKQiDMZj%2F2QxdeWHtrRmbWhr3nthYGNIAdTvBcUX%2BeeEhnLAimh%2F9TOK5ZF8%2BmBJ9q7OtMy5%2BqNFy43vN1bYu2azaQxi9RLsgjak6CMeST6As%2BjwC2jSPjKQw7K73%2BoXFMrXxfWOJbBjIwNzKDwPN7wVLOzUnHYPQiVYqzbsF0FmLx3E8Fx1jGynv22%2B8TNdYdsFvCBO23HsAjr6T3b8vV9MPQns6ie1z81ouYX2QmEJqtfXiU1cEIWAF%2BmVxj6IkImMUHVBz6DX9bpRcmAlcGMCmS9TEeidGP0eLnhKIJ0MShDN%2BjZlNBy4gtY2BGSae1p9I2%2FgYsFB1fG0z81%2BIR4tBQ%2BebzUuoPdjtIWyU3H3%2F3A%3D",
+        "Items": [
+            {
+                "GTIN": "",
+                "Name": "МОНГЕ СТЕРИЛ ЦЕТ",
+                "Quantity": 1,
+                "Total": 365,
+                "UnitPrice": 365,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 304.17,
+                "VatAmount": 60.83
+            },
+            {
+                "GTIN": "",
+                "Name": "МОНГЕ ЦАТ ГРИЛ 85",
+                "Quantity": 5,
+                "Total": 450,
+                "UnitPrice": 90,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 375,
+                "VatAmount": 75
+            }
+        ]
+    },
+    {
+        "DateTime": "13.11.2023. 17:40:58",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A0tXMjZMUDRQS1cyNkxQNFAjBAAAIwQAABzCZwAAAAAAAAABi8mOxT0AAABQs6UBJe7dQaTkFa%2FPYa8pLYXUM3VCej8rAoXmKEvYJbQbLPPfaMvzXzGWXlSQhOpRQeZh38Qa94thjaVJylVC0J5rcwO2E5Rdp3bf7U3ETVaWxKyMvZEOWDS8jIBzNtwUrOSrVXLCNxWaT8S54%2FtHXf8YU3Si2Ml5Ccs7pmEDtSOrQa1CHX0olP7FZzU%2F9W7KEd3cXcRkgnH67NzEz8ih6L81OZ2hf3LeNNP8Dof8prJFsP6cocaVldpX872Hedq87Ruqk4ekHSE8rkmrwFyqlLy7Fm4h17T14Xm6esxs7Ce1jsi1MMdbHyOGOYBvzd0Icvfstfh9WKm1Jw9ytGSlSyu667LWWnhx6TwdJth27UTrsubQ2uRXolP9E12VjsooIKANkHv7ljlpp7wlml%2BGDoZ4MfFrZlqHvGIoHxYqs2%2Fm5a9hTBsGgbVyeFvhW%2BT4x7%2BY%2BqPbXYioEjM4DKdMBzjUvJNncYzWBn%2BmEbi9Sne6lBb8P9t27b6bawmOYnFLZTscG%2FlPxFs0nQHacMu9%2Fnh5DOIOCvJ4XUYeQyajDLqBOVxuL%2FNWWw8dFOxCLxAjR3mynq4AseG0zXhU5VALNC9DWFFvWRkCStZSMXksCXe7GyEb6YbpNe2LD2qXFl8cHdZGScJE%2FhC4r9ykM37AAfi%2FL7PF7JnLcsPf1CAlI5QfNbUIWvXShB5rSRGVfMY%3D",
+        "Items": [
+            {
+                "GTIN": "8445290795083",
+                "Name": "Nescafe Gold doypack 150g/KOM",
+                "Quantity": 1,
+                "Total": 679.99,
+                "UnitPrice": 679.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 566.66,
+                "VatAmount": 113.33
+            }
+        ]
+    },
+    {
+        "DateTime": "13.11.2023. 17:24:56",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A041SkdQWlk0TjVKR1BaWTSztQUAwpgFAJAKmwEAAAAAAAABi8mAF4EAAACaJ8Lom%2B%2BTfjVfDmO0LR4llmm2JuFHbPNtH6Tt7KVSPrAc1ubTTBIqa9YVAJwWIX4njMKFTjuWh5CVO%2FPEu3XM3Qp3TBvliKG4shN3OJzm13SP0hgs4wwn4ThC6K9eZfOZewZYJxcnCmT1uCHtOABRvu2oXlmnRlUkPqndbIZq%2BDboG3xQt8pFjhxLrhnh2yBI3CjXP1ikN40%2F4AnU4330nk%2FMxic9MVjb5On58yDI0wylUnvd4SLtr%2BvnIkZ9bKjMbMPEXdKYompnLXJMkeuEcdK5jAStobNiNMXhIr%2Bqs5sh%2B8elIkqViYp9e0EFAL2mT8SIFMdjd7KSf9vCk4pMS4l8iPwYOkTI%2FP79hKh45ywLk3EvXpsirtvtU%2BWuL6ik3idirvqueEJKCMj%2FZfYb1AHWrebms4HiPPdBgpPTqgUQHHIOwz6CiSDQO0MoXA%2FG5esdaEFFcQ6amnDJCwB%2BG9uYvPE7fJaHCeoXG8HIrW7aj%2FWD837KBEk8ZmSdTJ4kusjxjpQ5lN8YV0%2BatnPOec5Zg1SQaIlwKvX1H7zlNahDdTrzTpLPvvvy6xfjpSjjwK2T84z76F%2BknJmmTUKSW2vLyteFiCVRv68uWH5NWPDDTbeAMhYRevtegp73J9zGgB%2FXfRiQUONyA3Cek8som6fODMtM0R%2BqhY%2BpoQ2sFiW5AqD%2Fi5CDTdV4TSEC5vE%3D",
+        "Items": [
+            {
+                "GTIN": "",
+                "Name": "Povrće za supu 500g/KOM",
+                "Quantity": 1,
+                "Total": 179.99,
+                "UnitPrice": 179.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 163.63,
+                "VatAmount": 16.36
+            },
+            {
+                "GTIN": "",
+                "Name": "Peršun, rezani/KOM",
+                "Quantity": 1,
+                "Total": 99.99,
+                "UnitPrice": 99.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 90.9,
+                "VatAmount": 9.09
+            },
+            {
+                "GTIN": "",
+                "Name": "Jasmin pirinač/KOM",
+                "Quantity": 1,
+                "Total": 149.99,
+                "UnitPrice": 149.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 136.35,
+                "VatAmount": 13.64
+            },
+            {
+                "GTIN": "",
+                "Name": "Budimska kobasica/KOM",
+                "Quantity": 1,
+                "Total": 159.99,
+                "UnitPrice": 159.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 133.32,
+                "VatAmount": 26.67
+            },
+            {
+                "GTIN": "",
+                "Name": "Juneći vrat bez kosk/KOM",
+                "Quantity": 1,
+                "Total": 549.99,
+                "UnitPrice": 549.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 499.99,
+                "VatAmount": 50
+            },
+            {
+                "GTIN": "",
+                "Name": "Mlečna čokolada/KOM",
+                "Quantity": 1,
+                "Total": 109.99,
+                "UnitPrice": 109.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 91.66,
+                "VatAmount": 18.33
+            },
+            {
+                "GTIN": "",
+                "Name": "C Senf/KOM",
+                "Quantity": 1,
+                "Total": 179.99,
+                "UnitPrice": 179.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 149.99,
+                "VatAmount": 30
+            },
+            {
+                "GTIN": "",
+                "Name": "Jaja iz p.u. M10/KOM",
+                "Quantity": 1,
+                "Total": 224.99,
+                "UnitPrice": 224.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 204.54,
+                "VatAmount": 20.45
+            },
+            {
+                "GTIN": "",
+                "Name": "Sal. Vit-Fit op./KOM",
+                "Quantity": 1,
+                "Total": 139.99,
+                "UnitPrice": 139.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 127.26,
+                "VatAmount": 12.73
+            },
+            {
+                "GTIN": "",
+                "Name": "Paprika crvena/KG",
+                "Quantity": 0.242,
+                "Total": 79.86,
+                "UnitPrice": 329.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 72.6,
+                "VatAmount": 7.26
+            },
+            {
+                "GTIN": "",
+                "Name": "Paradajz grap./KG",
+                "Quantity": 0.33,
+                "Total": 89.1,
+                "UnitPrice": 269.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 81,
+                "VatAmount": 8.1
+            },
+            {
+                "GTIN": "",
+                "Name": "Sveže mleko 2,8% m.m/KOM",
+                "Quantity": 1,
+                "Total": 119.99,
+                "UnitPrice": 119.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 109.08,
+                "VatAmount": 10.91
+            },
+            {
+                "GTIN": "",
+                "Name": "Čok. sa mehur.bela/KOM",
+                "Quantity": 1,
+                "Total": 124.99,
+                "UnitPrice": 124.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 104.16,
+                "VatAmount": 20.83
+            },
+            {
+                "GTIN": "",
+                "Name": "Ovsene pahuljice - s/KOM",
+                "Quantity": 1,
+                "Total": 149.99,
+                "UnitPrice": 149.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 124.99,
+                "VatAmount": 25
+            },
+            {
+                "GTIN": "",
+                "Name": "Mlečni namaz/KOM",
+                "Quantity": 1,
+                "Total": 189.99,
+                "UnitPrice": 189.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 158.32,
+                "VatAmount": 31.67
+            },
+            {
+                "GTIN": "",
+                "Name": "Rol.sa mal.I v./KOM",
+                "Quantity": 1,
+                "Total": 49.99,
+                "UnitPrice": 49.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 45.45,
+                "VatAmount": 4.54
+            },
+            {
+                "GTIN": "",
+                "Name": "Rol.sa mal.I v./KOM",
+                "Quantity": 1,
+                "Total": 49.99,
+                "UnitPrice": 49.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 45.45,
+                "VatAmount": 4.54
+            },
+            {
+                "GTIN": "",
+                "Name": "Somun izduženi/KOM",
+                "Quantity": 1,
+                "Total": 44.99,
+                "UnitPrice": 44.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 40.9,
+                "VatAmount": 4.09
+            }
+        ]
+    },
+    {
+        "DateTime": "06.11.2023. 15:05:24",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A1RBQUJWV0RBVEFBQlZXREFhkQAAf4oAAMDGLQAAAAAAAAABi6Tz0YEAAABznxkBIiRtOxH8NkVLjbn6KWCBviyEuQerL1OVUZj3QfG64x9oJ0sdS5dc1Ij/pnar8HxSnPvkrPb3GbuLsBsT5AQ7bOopVta/LcF77BQLyWoTBNz1z2NjtG0ez98IFnN760Q2SQD+VKQQkS3xCpf98dSyaWC8Z41vQ46iQtGerOUf0XFlozZ7Vul9EWdk70SrwA5t8ubl3kyt3GOHuvKV0AUzLEkTwpUld6VjjGlrHYPt5M55+NAJS9v1ebeERNtSiXQcK3otu8DvMiaqy4U7SqwvXpwzpP2HFRmVn1jiuKBE7yfzbihbJcetvcafXIjvhVPZgLg2cAZ1K45C+5doXIR40hxD5tdVetEBqeEbIJU04OcbeJEYZkHvRzx5gd277HTjqDa6r0cxhLTvfyXHOnF+tPvP98P9BNf4esvx5QdoGfDLIlZNHXMAtKxzbloogHQi6y908N/wBn7M6TleulfRJYcl+u9G65W8qJXu5ZGOM44Xhf5FpISUbX5xN2yBHWrfCWopAsdpcN1tm6CS+3xR9Ed/bGiEx9NpD6kpE3mnyGA0qUFXGEdHyNGKbf70+SkxdaPaI0XAeg+NuRw7uu2ObF5uJaWOcFpwegH95nMt+1XeQilPMX4s+1iCYi3TA0qoQUWNw/WPz7iOdhgdSfKI9F3uV16lnyvPw52IXmtjGQH/F1laMtJOuWAa6fE=",
+        "Items": [
+            {
+                "GTIN": "2200132894265",
+                "Name": "flaša za vodu 1,2l/kom",
+                "Quantity": 1,
+                "Total": 300,
+                "UnitPrice": 300,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 250,
+                "VatAmount": 50
+            }
+        ]
+    },
+    {
+        "DateTime": "08.11.2023. 10:31:15",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A1ZHU0FUN1VHVkdTQVQ3VUdCSQAAhUgAAHDmTgAAAAAAAAABi65FitgAAACt5mCGxLHS2Ol4ZrQc4oTyvLaIXzjpvH6X0zBXQyTjLQ1FmCh6iFtV62HLMRzIrUiJ+uAejfM8mfHTjKfn100k97L5oe6X5+stl0MthBAI2wpTQ1sTq5ZYXjq4b8lLgwCwa1Ugf/q1NSZyrdmwpz2IpncJbPoCtdFD0lpOeWM7AZddm/YM/E72k1k+Cpy3GVvnQaTYvg7uzXW6rt4HsKdCIfKKHGE8BpIRNDA27MDaFxCLR9Y3kdtd4lSyAGJZizDYPOP3BkGPkUW+H8XwYNguV2+1JHbHHglPMZEpk0WlVcbd1CXHUAr9Px+S0ESBdWGQ9E5NtvOQNViueEuY6c4tPuVgGB/yWUyBYvRCevBXKW8bLoTw5w9dqKGYixJ9RMokbaPUrln1n3S+ENd5oYhhWOzthFJokwAtRRlOJ1gR/uRwD7OsuRGM76WW/bSjDe20+dB6b2k40Br8ifEkMd8yVzy4Ct0X+6OYYRK5wUob1yQEgdfIb/PJNCToMzoktFJsAX2wgVXATn0FNX/0Sw1fZ7IP6NV/JMC22TAfnvLL8zMkKRIoUdOf/VzMHIi/bMWFahFgzd6rYjfWnPgg9rGJQAhR9CQgSqEnIXkWgwCz36Ayn17vcLOoRUg21bmIRP7FKSbZ8KjX2vGBEfDR3DUGQxwiLxCITOkOWcSxLFNLezspu/q58nOJR8sKplnTVro=",
+        "Items": [
+            {
+                "GTIN": "8606021097900",
+                "Name": "8606021097900 SOLEVITA MAGNESIUM 375 / KOM",
+                "Quantity": 1,
+                "Total": 299.99,
+                "UnitPrice": 299.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 249.99,
+                "VatAmount": 50
+            },
+            {
+                "GTIN": "5310001201500",
+                "Name": "5310001201500 CAFFETIN TBL.A12 / KOM",
+                "Quantity": 1,
+                "Total": 169.15,
+                "UnitPrice": 169.15,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 153.77,
+                "VatAmount": 15.38
+            },
+            {
+                "GTIN": "5099151008022",
+                "Name": "5099151008022 BRUFEN GRANULE 30X600MG A / KUT",
+                "Quantity": 0.1,
+                "Total": 47.94,
+                "UnitPrice": 479.4,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 43.58,
+                "VatAmount": 4.36
+            }
+        ]
+    },
+    {
+        "DateTime": "08.11.2023. 10:32:20",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A1ZHU0FUN1VHVkdTQVQ3VUdDSQAAhkgAALC2PgAAAAAAAAABi65GiSwAAAAwWCnt90bHoNlD+/eYmmF450v/sSrmC0VSwpB7p/KnNy6d0w2MJjVFgtEBPsUuJFOiwmZBNMuyMm+cuHZJIRV3X50uddSO9PHG07smzVVXX6cFvsYgNJslLv+DSQkAIwkinFBmMtndXJS68x9CPDtjEoG8liJsUisMORE9VoFjYUt77e1vYUxTZacBLiMaKb6hzg949i5iMx71ZnuWEYOrpJblzTS9vISTFdO/ma2u0Y1pPF1UYy3SMG7XnonGYI89ADxnKslieyV88gfkLAEk0GMhFIaw7jJRWEav6qGeTvXkfVWKAjvSXpn91oe9YhpsnqqtNIjeb/mD6z5nCR0lJq8N4IiW6VSRfrpc/NaFQC7ZBmzfwRTUX8nGdvo/LEtJGuvbaiFtSEcekhSgjzBDAPZCWDipG5pP7kLDy6mSSyh1+8WxjlWvj0ierTxdEgq+WaMw6mnce3M5heDIRPGUOtFYYovkgORggyXfN5MfiZ5abpH3vIkEA0yjDpajiwWoIwKfrrX1w7XBdckEOWmOaE3ARo+PfD0JcFoPfabzWgkhz9I88BDqAx2MmB8HZVZ7HHcVsOvzY/IzsAhSt0Lk6/4o37PfjETTiyvVPW7lH+HIqJZPBVAgMdqANBpLjfnzUeNAyGrovam3W0kbAxu1FOzosCDzSJs0hBVdmfNT8AMLqRPDp2q8Pq5pu1myjKY=",
+        "Items": [
+            {
+                "GTIN": "8600097429429",
+                "Name": "8600097429429 SNUP SPREJ ZA NOS 0.1% / KOM",
+                "Quantity": 1,
+                "Total": 411,
+                "UnitPrice": 411,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 373.64,
+                "VatAmount": 37.36
+            }
+        ]
+    },
+    {
+        "DateTime": "28.09.2023. 17:35:00",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A1I2RzNYNTJUUjZHM1g1MlTLJwIA0B0CAHAuugEAAAAAAAABitxt1nkAAACfMhDYtDogJtxaH5aCr%2F2TdGHamitynwvKkshcws%2B7pGSmmhv12U%2F5pI%2BzGlRt7SnNpr%2BBppi0wBsk43fIaO0WH%2BABKZnI4MsFmfurgdF1qmzsO2%2B28eZCz57Nu%2B%2BTI9c%2FL844b5GyFT7hwLQ6xq5IAUQsoWJAh9Mv%2FetKIb4XUlWI3JtjYQ4rgxPbPAwnNkvDvVJyKisWG5u9bxpVdWq1d7QHqmhV7ysl7fzwApNNft0EfGNC8bngn%2F%2BQKPJAfeE%2FE9RtN%2Fif1UxVJIZ1RRszYffZrgTl60BZvIKGfCEhAH3asgJzmnxAsNcpQAw16AAQVl69KOjrYTY7n6ydu0tjfEhu57fxrmi%2FQZIjbpddTwVVfa7dNPSJp0NogGjo2RdS79OYgIZij8HJduUfI70EFxyskuUHTdMNRSNWgo4q2F5km%2BBwz%2BF2YN%2B5SR0aPGTOqYgssvnRQc3MBDmeF6VdIt9csRLHcLrHMxDxXeNbaffl8iIWc4QnFQ26ScJOQv08EcqNN1L1lO9M3OTHumgJtVQNFl0ab8syKJ%2FVPpGq8C1YnpXghIlyZ2ENOauIUk%2BNUq2m%2BN5TvClaHUpSy9kcPjvTYZdiX4s5gJ28H5xaLSCthx8wAvprB0hXSi5rcV5aoM09crvvQhsSoKc2zQg3%2BLzsOCctFORY3Bx5dU3%2BgtnPyoV5xib5NpL%2F5L3%2Fw%2Bw%3D",
+        "Items": [
+            {
+                "GTIN": "",
+                "Name": "Jelen Svetlo pivo/KOM",
+                "Quantity": 1,
+                "Total": 238.99,
+                "UnitPrice": 238.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 199.16,
+                "VatAmount": 39.83
+            },
+            {
+                "GTIN": "",
+                "Name": "Svinjski kare BK/KOM",
+                "Quantity": 1,
+                "Total": 479.99,
+                "UnitPrice": 479.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 436.35,
+                "VatAmount": 43.64
+            },
+            {
+                "GTIN": "",
+                "Name": "Pileći karabatak/KOM",
+                "Quantity": 1,
+                "Total": 249.99,
+                "UnitPrice": 249.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 227.26,
+                "VatAmount": 22.73
+            },
+            {
+                "GTIN": "",
+                "Name": "Tortilja wraps/KOM",
+                "Quantity": 1,
+                "Total": 139.99,
+                "UnitPrice": 139.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 116.66,
+                "VatAmount": 23.33
+            },
+            {
+                "GTIN": "",
+                "Name": "Voćni jogurt, 8 koma/KOM",
+                "Quantity": 1,
+                "Total": 299.99,
+                "UnitPrice": 299.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 272.72,
+                "VatAmount": 27.27
+            },
+            {
+                "GTIN": "",
+                "Name": "Cantuccini badem/KOM",
+                "Quantity": 1,
+                "Total": 259.99,
+                "UnitPrice": 259.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 216.66,
+                "VatAmount": 43.33
+            },
+            {
+                "GTIN": "",
+                "Name": "Sveže mleko 2,8% m.m/KOM",
+                "Quantity": 1,
+                "Total": 119.99,
+                "UnitPrice": 119.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 109.08,
+                "VatAmount": 10.91
+            },
+            {
+                "GTIN": "",
+                "Name": "Instant kafa Green/KOM",
+                "Quantity": 1,
+                "Total": 519.99,
+                "UnitPrice": 519.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 433.32,
+                "VatAmount": 86.67
+            },
+            {
+                "GTIN": "",
+                "Name": "Konz.od komada tune/KOM",
+                "Quantity": 1,
+                "Total": 239.99,
+                "UnitPrice": 239.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 199.99,
+                "VatAmount": 40
+            },
+            {
+                "GTIN": "",
+                "Name": "Dijamant Majonez/KOM",
+                "Quantity": 1,
+                "Total": 174.99,
+                "UnitPrice": 174.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 145.82,
+                "VatAmount": 29.17
+            },
+            {
+                "GTIN": "",
+                "Name": "Somun izduženi/KOM",
+                "Quantity": 1,
+                "Total": 83.99,
+                "UnitPrice": 83.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 76.35,
+                "VatAmount": 7.64
+            },
+            {
+                "GTIN": "",
+                "Name": "Mlečna čokolada/KOM",
+                "Quantity": 1,
+                "Total": 89.99,
+                "UnitPrice": 89.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 74.99,
+                "VatAmount": 15
+            }
+        ]
+    },
+    {
+        "DateTime": "16.08.2023. 19:57:58",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A0ZYRzg5NFVOREJWOEdQTzC1GwAAgxoAACB99QMAAAAAAAABif9%2FRssAAABpjncPI0m62VwLekcQDp%2BqvaJJWEE7l5KRRbWBGSZXyI2aSVS%2FSXHGZ6EoT996YB3hFfy5F6%2BphRsoNVsgmOvV2jse4SFgoagFkyq1iVWGG%2FNIRXWnYxt20d6Bc0R2ZjjnCu7NB987ZqFZhQ1CAPzuV26T%2F8CeFMsQhqiIlgUcVKpEme%2FOiv0fwSPCcvaLcQrOLsz1jjgGpWZn%2FdkAiozeJNPPqywD%2BJaFn6zU4NweTlamBe%2F8DF2pXZjpKFH1JXBxHZTCGzCBRzKl5HUA4358AUwyVKcjJ%2FMoQ%2FIbVG9MAo5iKOPPF1IChLvsg2SCvpSxR9qq5uh69iE%2Bkxh4yAbZFOdvvnuFyI3JaGSWjEPJTo35Pt2LKgYGhOh2d0lVEt%2FO8IwzmU0i95Dvgph7Py8GBdNPKm7BGWZV4qQU74YYw%2BZVVpVBn%2FehSpXJKumQKrECSjRJZCC5gjLwr28d7W%2B2Kv1yMzb8JSpFb4jiu5grMrA9A0%2B35yFJLvnjXI2U9PKZQMVtDz2k2JIPlHb5xpE78dVZ2NHoKe3HKGy53PCAggMJ95IVEPdLQVGVMZw9DxfQ4J1Tc%2BDkAqmUPfNjj3IBskw2anKGEQzcuuWxZyiaoUmwzlyd6fMDBcAtptZYh6lEo2W3Ve%2FLKzYOMX2ewHEMC1ylDfD1kT2UCVSJmsOK55kiIFfyGiyJhSyzWrxTfvo%3D",
+        "Items": [
+            {
+                "GTIN": "4065452624866",
+                "Name": "377672-05 PUMA SOFTRIDE ONE4ALL WN\u0027S 38    ",
+                "Quantity": 1,
+                "Total": 6632,
+                "UnitPrice": 6632,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 5526.67,
+                "VatAmount": 1105.33
+            },
+            {
+                "GTIN": "9908600622367",
+                "Name": "NSPORT SRE.KESA NSPORT SRE.KESA BV    ",
+                "Quantity": 1,
+                "Total": 10,
+                "UnitPrice": 10,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 8.33,
+                "VatAmount": 1.67
+            }
+        ]
+    },
+    {
+        "DateTime": "02.11.2023. 17:26:26",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A00zVEpINEw1TTNUSkg0TDUEKAAA9CcAANQjKgEAAAAAAAABi5DbgqYAAACvdteRNo59%2BVrrfqCkiuhLDMXkhQCbSb6ZPYRh48VeupiYcW2MwpOJMaarB5NPa2Wc7wiQZQBt7IiQBIrvM1QwdVQmqPwK319mSSf5ozmnehwucvvvzHijr%2Flnkn%2BEvGpnuNpWDhn8wB33mYQ1jPTk1shsH8cB0SMHrG1rReIXSgi5ffeHBmDZYQhjB9L37%2Bsvwo8UKrc3X5MpVsRHDSbDiti3SNtxISUdWv2KBjtNFlDX9%2FR9JvDTkgzJfUCgEXiV94j2fgSijQi9aSUK7zDs27vRo9Igv8frMiQv%2FS3A36cnRYldhgirhZaeiGk4%2BqdkORWpHKcg009aHCsYklcPly5DreG2wekdGwc1wJTOaR48zwTZ%2BpX8fI3%2BSq%2Brlr3lUt5cDCQO8NpXGHRJehzB%2FiCfcybfE%2BVFP8X%2Bd8tI67t%2BZg1e2mQ8g96T3yiL%2B2YO%2F%2F3PT7FL1TchEDNtgwLLLvKzIv9XzyARHvmX3qIUBRzzM75VUErvdLcTnjscr3QXON%2BweuPGaybprVeo%2FXKMjnw4KSB9WG%2BlKUHJWsijPNJGrwkpWlcpoxRzn7b4THgJlYIl9%2FsoXBlveQ%2FHOr%2BchGNZmSgt0sbnN3Pyk8zreqv1p0cCJDNkJ5Zk8aWq1WyMw3n%2Bgf5%2FGZBjz%2B6WUCP8Brj0LKZva7daEBdlv67FFjZOkgt7mzGSycUJiXVPM4o%3D",
+        "Items": [
+            {
+                "GTIN": "8600036006094",
+                "Name": "Min.voda pr.gaz.Vrnjci pet 2l/KOM",
+                "Quantity": 1,
+                "Total": 59.99,
+                "UnitPrice": 59.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 49.99,
+                "VatAmount": 10
+            },
+            {
+                "GTIN": "8606110850270",
+                "Name": "Ubrus kuh.Multi Purpose 1 13sl/KOM",
+                "Quantity": 1,
+                "Total": 229.99,
+                "UnitPrice": 229.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 191.66,
+                "VatAmount": 38.33
+            },
+            {
+                "GTIN": "3838800049922",
+                "Name": "Alpsko mleko bez laktoze 1l/KOM",
+                "Quantity": 1,
+                "Total": 188.99,
+                "UnitPrice": 188.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 171.81,
+                "VatAmount": 17.18
+            },
+            {
+                "GTIN": "8606018041480",
+                "Name": "Sendvic Salama slajs 100g/KOM",
+                "Quantity": 1,
+                "Total": 229.99,
+                "UnitPrice": 229.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 191.66,
+                "VatAmount": 38.33
+            },
+            {
+                "GTIN": "4084500981614",
+                "Name": "Det sud.Fairy Chamom. Vit.450m/KOM",
+                "Quantity": 1,
+                "Total": 178.99,
+                "UnitPrice": 178.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 149.16,
+                "VatAmount": 29.83
+            },
+            {
+                "GTIN": "8600197372892",
+                "Name": "Usitnjeno mesano meso 450g, Sv/KOM",
+                "Quantity": 1,
+                "Total": 299,
+                "UnitPrice": 299,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 271.82,
+                "VatAmount": 27.18
+            },
+            {
+                "GTIN": "8601500133902",
+                "Name": "Sv.mleko 2%M.Subotica968ml PCT/KOM",
+                "Quantity": 1,
+                "Total": 129.99,
+                "UnitPrice": 129.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 118.17,
+                "VatAmount": 11.82
+            },
+            {
+                "GTIN": "8606002114084",
+                "Name": "Sirni namaz Somborska 250g/KOM",
+                "Quantity": 1,
+                "Total": 159.99,
+                "UnitPrice": 159.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 133.32,
+                "VatAmount": 26.67
+            },
+            {
+                "GTIN": "8445290728616",
+                "Name": "Kafa Nes.Cl.3u1 16,5g 6+1grat/KOM",
+                "Quantity": 2,
+                "Total": 239.98,
+                "UnitPrice": 119.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 199.98,
+                "VatAmount": 40
+            },
+            {
+                "GTIN": "23805820",
+                "Name": "Hleb sa sus.Maxi Pekara400g PP/KOM",
+                "Quantity": 1,
+                "Total": 89.99,
+                "UnitPrice": 89.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 81.81,
+                "VatAmount": 8.18
+            },
+            {
+                "GTIN": "23814210",
+                "Name": "Rolnica mini pizza 120g/KOM",
+                "Quantity": 1,
+                "Total": 74.99,
+                "UnitPrice": 74.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 68.17,
+                "VatAmount": 6.82
+            },
+            {
+                "GTIN": "3850102123681",
+                "Name": "Cokolada riza Dorina 75g/KOM",
+                "Quantity": 1,
+                "Total": 72,
+                "UnitPrice": 72,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 60,
+                "VatAmount": 12
+            }
+        ]
+    },
+    {
+        "DateTime": "01.10.2023. 12:02:22",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A0xNN0Y1VUg2TE03RjVVSDbIeAMA1nUDAJRcrwAAAAAAAAABiuqwX7AAAABzWqUV7eNOUpSvZ2nelRamYsMbv2Pjwqr%2FZdL6ynfp%2BBAXoXL9U3OlEd%2B1thKJzqYBixSlbic1S%2FW57yqajQ2xJ2xwNgiVwAynNqk6T2IbPRGIevNPgTdA1tEwNTWEVtCOZTO1sICRRGOz%2BnCnN%2BCQ9QqmNIrYaP76f9OOG%2FVlTqHhVdgFCJZxATDX2G0CyOnX5TWLP5s0VL38wvTXJO2Eolpze1d6FtfWPE301ZRmLFPNKZWPa10zGlVcJZ0c%2FqdvaG8TmTS5Fx8sN9801WzwCtPyzj8G3cJGArsFTxyu70uS4Ec1ecoPH4KLsMlJr8aLc2vhk9DMXQex0vXEHmjJHJEjd22Uv%2BL%2BHFO%2BtUDrZkNKmFK4ASL2bByaxGFTcLmy7%2B9SiAa2mGwFI04ulfr6pZN%2FC3Z5VvaIap4rdz8Mx9J%2Boyw2HzbD3Skfoit6k5NXdQPlTVG4LZTANECO621894m2AixXT2jh8GQgEUaqe3ek27QvwrvHWBYxQQHS1QYKcheno8J3qX3ieacQm%2B1OcIfcsCEwTt5q4UrOWRYXoqqAvZYc%2B3hNL9abBKZzw26wMlmuWxDHiymazkGA4nJvRcjepF%2BJtifdj6EBK1GR7fnbQj79%2Bb9mXhM1516AhOWVLUuq2lvxddkliEhcvxahkA2puIj%2FWTInPfydAp6uGF0bZv3VxzCHS37182RMEEQ%3D",
+        "Items": [
+            {
+                "GTIN": "2803400006942",
+                "Name": "PARADAJZ (KOM)",
+                "Quantity": 0.694,
+                "Total": 194.31,
+                "UnitPrice": 279.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 176.65,
+                "VatAmount": 17.66
+            },
+            {
+                "GTIN": "2441209000015",
+                "Name": "BAGET PEC UNI 300G (KOM)",
+                "Quantity": 1,
+                "Total": 79.99,
+                "UnitPrice": 79.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 72.72,
+                "VatAmount": 7.27
+            },
+            {
+                "GTIN": "8606002110499",
+                "Name": "MLEKO DUKAT 2,8% 1L (KOM)",
+                "Quantity": 1,
+                "Total": 129.99,
+                "UnitPrice": 129.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 118.17,
+                "VatAmount": 11.82
+            },
+            {
+                "GTIN": "8606020171663",
+                "Name": "ZVEZDICE 200G BAS B (KOM)",
+                "Quantity": 1,
+                "Total": 74.99,
+                "UnitPrice": 74.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 62.49,
+                "VatAmount": 12.5
+            },
+            {
+                "GTIN": "8601300044231",
+                "Name": "FUSILI  DANUB 400G (KOM)",
+                "Quantity": 1,
+                "Total": 103.99,
+                "UnitPrice": 103.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 86.66,
+                "VatAmount": 17.33
+            },
+            {
+                "GTIN": "2803399004301",
+                "Name": "PAPRIKA CRV ROGA/SIL (KOM)",
+                "Quantity": 0.43,
+                "Total": 86,
+                "UnitPrice": 199.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 78.18,
+                "VatAmount": 7.82
+            },
+            {
+                "GTIN": "8600036006094",
+                "Name": "VRNJCI BLAGO GAZ 2L (KOM)",
+                "Quantity": 1,
+                "Total": 49.99,
+                "UnitPrice": 49.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 41.66,
+                "VatAmount": 8.33
+            },
+            {
+                "GTIN": "8606015943336",
+                "Name": "ROSTILJ MESO OBL 500 (KOM)",
+                "Quantity": 1,
+                "Total": 429.99,
+                "UnitPrice": 429.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 358.32,
+                "VatAmount": 71.67
+            }
+        ]
+    },
+    {
+        "DateTime": "04.09.2023. 18:53:05",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A1I3OFRUWFdCUjc4VFRYV0IIWAAACFgAAAhDQQAAAAAAAAABimEcsWgAAACIym6b2zG%2BopfLV8jzH7ttqOjUBdOkrMcQXLGA3v5OXz4whsfBzVOQ0X3ejnrDVJ7jKVEaHxtSL2LddolkChOtRUsG%2BGavEFhlUZf9IGWrS%2F0HEJpfKoClP1iTDVDuf88bYcvW8NEHNPQYUKJB9VtzkA%2BEUOFPBVG49bRE6trSv8KhORqMoQTmFdlbgwTQ450T%2BV6p6HQ4wuCAeE0EFwuR8l7W%2FQpTVObQRVgdQeSUVliiUehU86qx0VvheaJQDYcuYUrVP5eGTZzKm37%2FzI0U93csmL0IWZbpoZNoXDoeyFjfmwmryJqfU%2FrvcHZelZ6Bj7n8NskOOE9FZrWPZ7hsQrG0jvFN5Vl355l3dvsjfjgN2w0DelMChudb0iE3hafIdOD4Z8kY9gC0rZUlaL2YH4vidGQDS9NVQ%2BW4UpBk0gMx0XuXGm44PL3fCvv9XUb8x%2B5ABxD5VSNZ4ihmEBMryhSqMbm58gFZMLyna5wm%2B2k8IoslF2IfOa7MxPnx7Nbv7mJcXTkvrHFlr0JWyD9iE8hQC2mHmQt4dKTerfBKYozsSq42yVRtRgu7TrKI9nBrdmmaL5ZmXRZkpL4p6NcgngML7ncfwBtWS3XemYg6i9enePZ22HDJTpHMGYkhs%2Fa9sPYuQFS8dCwUZARDyBcpB%2Fg0q66vWfuKlKMYIF91dgceWKJRzjo2sTQj0p0wIak%3D",
+        "Items": [
+            {
+                "GTIN": "8606017378785",
+                "Name": "STAPIC PARDON 200G (KOM)",
+                "Quantity": 1,
+                "Total": 79.99,
+                "UnitPrice": 79.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 66.66,
+                "VatAmount": 13.33
+            },
+            {
+                "GTIN": "8600043000160",
+                "Name": "ZLAT.PEK 100G BAMBI (KOM)",
+                "Quantity": 1,
+                "Total": 44.99,
+                "UnitPrice": 44.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 37.49,
+                "VatAmount": 7.5
+            },
+            {
+                "GTIN": "9000101575187",
+                "Name": "MERIX GORS SVEZ 0,36 (KOM)",
+                "Quantity": 1,
+                "Total": 156.99,
+                "UnitPrice": 156.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 130.82,
+                "VatAmount": 26.17
+            },
+            {
+                "GTIN": "5941017016354",
+                "Name": "NES 3IN1 CLAS.16,5G (KOM)",
+                "Quantity": 2,
+                "Total": 53.98,
+                "UnitPrice": 26.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 44.98,
+                "VatAmount": 9
+            },
+            {
+                "GTIN": "2803378001741",
+                "Name": "LIMUN (KOM)",
+                "Quantity": 0.174,
+                "Total": 41.76,
+                "UnitPrice": 239.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 37.96,
+                "VatAmount": 3.8
+            },
+            {
+                "GTIN": "8600036006094",
+                "Name": "VRNJCI BLAGO GAZ 2L (KOM)",
+                "Quantity": 1,
+                "Total": 49.99,
+                "UnitPrice": 49.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 41.66,
+                "VatAmount": 8.33
+            }
+        ]
+    },
+    {
+        "DateTime": "15.09.2023. 18:20:26",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A0tZUjlVREFQS1lSOVVEQVDIwQEAh8EBAOwouAAAAAAAAAABipmkwRAAAAAJh6WYeE1HqFZagAQZqVj8djM3%2B83lR94jjaA%2B8flO76ieMMThHSQyiR4pkfm3najjCm1XcvwbHtf2JvPjatiEr46m9QSRxvH0mxrm5U9eWnkWrhx6IUBQVIxlQ2oDoHXPJyfRKW0Ka62T91UAu2bFiauzoOZYx89TZlwl3mAsk3dVJzrpjsEQ7VGPSTLhH7j5pmtwL9HwQGYnVD3e9HQLHtvVSPfNf0B63akXFGJJPrlIo44Y%2BXA%2FJ%2FtbfTy65%2FTCg76qHUyarFhCD8VEn2iM2w7bFU2ia6Wumd8Fqd%2BdfkRsMpqS5ewoYUNYKcE99Hsj%2Fgnir4Fr0YebGPmq1Ak9Irz%2BewWUNKFx5fetgasPnIGd2%2F1dmTCCVDHd7xEyLj8vdjVowUnHxTNSgTpz0RZXfjRlhSHf2l%2BaPSuxH4YyzKXYwbIZyELRVk9eAD3grIs9QMNknCNXCF60YYM1EZtwTSHYHLqYFIjgPd0K2mtuXjBwAMmiD%2BYLArZaLE5bLM5U%2BnkALDAqQWVqRtwFS7kGfDlpqjLybKbih0TlzEawwqkCqBWT%2FmNmAvu53309cAhfmmUzCbY%2FfkHBxS7GgerePj2YkOppu5ct%2BYl13C8ZAijutKZJ27umflkE%2BgBZyWiFEXZFh%2F6o%2FgWEFnCWnzkErwGoFFluIqhxNfDSpBHSxqVRYZU417FrAcTrbJtruQE%3D",
+        "Items": [
+            {
+                "GTIN": "",
+                "Name": "VODA GAZIRANA 2L VRNJCI  KOM",
+                "Quantity": 1,
+                "Total": 61.99,
+                "UnitPrice": 61.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 51.66,
+                "VatAmount": 10.33
+            },
+            {
+                "GTIN": "",
+                "Name": "MLEKO SVEZE 2,8%MM 1L PE KOM",
+                "Quantity": 1,
+                "Total": 134.99,
+                "UnitPrice": 134.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 122.72,
+                "VatAmount": 12.27
+            },
+            {
+                "GTIN": "",
+                "Name": "PIVO BAVARIA PREMIUM 0.5 KOM",
+                "Quantity": 4,
+                "Total": 319.96,
+                "UnitPrice": 79.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 266.63,
+                "VatAmount": 53.33
+            },
+            {
+                "GTIN": "",
+                "Name": "MIX ORASASTOG VOCA 180G  KOM",
+                "Quantity": 1,
+                "Total": 279.99,
+                "UnitPrice": 279.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 233.32,
+                "VatAmount": 46.67
+            },
+            {
+                "GTIN": "",
+                "Name": "BOROVNICA 125G UMK       KOM",
+                "Quantity": 1,
+                "Total": 159.99,
+                "UnitPrice": 159.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 145.45,
+                "VatAmount": 14.54
+            },
+            {
+                "GTIN": "",
+                "Name": "BOMBONE GOLDBAREN 200G H KOM",
+                "Quantity": 1,
+                "Total": 249.99,
+                "UnitPrice": 249.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 208.32,
+                "VatAmount": 41.67
+            }
+        ]
+    },
+    {
+        "DateTime": "10.10.2023. 17:57:28",
+        "Link": "https://suf.purs.gov.rs/v/?vl=AzdEUkFDUkRRN0RSQUNSRFE3EAAAIxAAAMRfqQAAAAAAAAABixpOuIcAAACR2yvg6YJGBmzMH10K5gYEkJEMyu3JJUEUPN%2BEw2IqAhPOvrU%2BZZb5HqYpgu%2F9asNf2q1YFTy1GChX6pZ0bm7BKfDcBgGxCXblR22KX4WApPWRXJ9SH7LxdwuO0FDWoS8sUhn9eS6XgjD1VIYyoJPHDCOCkAmJcETDsTi8IOB3x8pRruGKD72YxNiKL%2BuBtbfWvoVZw4OemVR%2BVgFuG6gzufpUVI79et0rXQ71QzqStwA%2B9IuIjocB9TFG0%2FBH5IoXQIaz7Z9ZIabEsj157TemLpt2tlkxZ6EMhjY1%2BdUibEExT%2Bh%2BCKkDVtryt4h5hvpg%2Bnr5TIVoHmEKCsz1FnDJP8NwyHDnpNTIfnFGV%2Fl0imFqDejgkOadcvRgu6R2GxE5metD1D2FGyH8ZjdhaV2rhPDAN%2F0HG8nTHVkst28Ebw9eU6xMFFLRwc9KxzMRR561M0cz8nLU3cHmLubDbaNkUMrkIwR2G%2B32QgyOWwXePTz52AzIadfjYcjnSatVBsEyniSQY%2Fg4KjOQz%2B5dYQa2y3KeYNHUVcLEhZjBIO5nAK6IFRj3l8hkibgBVMBWBfY14n7U8Yw%2BUIPcJ30Y9kSftpTPraFdwqKFUeNWpXAczD6cBjYFL6hjU%2F8K6IA9c3ILGNc%2FDqM1hk1iVpJqCQboI6IbkvCyBiB69dnGMryG5inoTWnKYLBXNoNyLXUR2wY%3D",
+        "Items": [
+            {
+                "GTIN": "28206330",
+                "Name": "Jabuka Zlatni delises/KG",
+                "Quantity": 0.634,
+                "Total": 57.05,
+                "UnitPrice": 89.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 51.86,
+                "VatAmount": 5.19
+            },
+            {
+                "GTIN": "8600036006018",
+                "Name": "Mineralna voda gaz.Vrnjci 2l/KOM",
+                "Quantity": 1,
+                "Total": 60.99,
+                "UnitPrice": 60.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 50.82,
+                "VatAmount": 10.17
+            },
+            {
+                "GTIN": "8000070035805",
+                "Name": "Kafa Qualita Rossa lavazza250g/KOM",
+                "Quantity": 1,
+                "Total": 431.99,
+                "UnitPrice": 431.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 359.99,
+                "VatAmount": 72
+            },
+            {
+                "GTIN": "5310008006016",
+                "Name": "Vino belo Smederevka Tikves1l/KOM",
+                "Quantity": 1,
+                "Total": 399.99,
+                "UnitPrice": 399.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 333.32,
+                "VatAmount": 66.67
+            },
+            {
+                "GTIN": "8006540947401",
+                "Name": "Pasta BAM Anti-Cavity Original/KOM",
+                "Quantity": 1,
+                "Total": 159.99,
+                "UnitPrice": 159.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 133.32,
+                "VatAmount": 26.67
+            }
+        ]
+    },
+    {
+        "DateTime": "13.09.2023. 14:37:24",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A0xNN0Y1VUg2TE03RjVVSDZbTQMAi0oDAJwMTQAAAAAAAAABio6L16AAAACxVFgZC1y3Bqs05ieUoWTA%2Bs6Xke%2F%2BpKNssZlJZrw3U%2BTxYAHZ3UNsVY%2FPLDYfnObFFR8EyRrJg%2F%2BSGl%2FLcaABCrPZ2JKhiiunY4Td7m41eHsULLhTOERFQkzpxNweUE5GyEoZj5w5mZ%2BOc0tuUXyTTkffXIkMjfEpEbzHVeJbi5RZHAoc0Cfqtjjm5Qxzuuz%2FFOcvyRVEu5M4064Y7HmGhkam2%2Fhq5gARvcDfnYBJqXHGXnXnsW%2BTKzJ5iAqpi30RYmK4mxCnKTbzfwWZncMcPa%2BWxNg1jtG%2BTTHTeAM9iilRVvESOAf9QQE%2Bf%2BynObEDouYW5twCtZLcTJsZm5tIY359hORgdv7fG1uWNFm4v1SEnbv5GN914DTJlOU8txW%2Fc6q7n0MzKpaqmRuExoxwrNN7g6CNE8SIf7KCb0TMA5GXC5x1dvoGYwTDLj7qJ4bxkYrWFOw6ajqGZrH%2F3CzYcXJkCkjlFC9oT%2FsP1TkmV%2Bpq8sjwheQoC%2FDBd9rHcdR1msgLUgwD%2FfzZXvtGv%2BNexkOPLwIlyC8S3m1fGdQ7qJ4GwZNHjQbG3edAn1uIb9kfKhfQrfpL8bhDMrtCCjHbNNxLGk4xsZUohvCyzCOuURY7aj3lhDZ8ug2akw%2BBFuf1EooYYriqlgD0KZrgdjn%2FRl7Wt7Lc6b8gBIEMHeFhK3fFmtZX3WmgGhvYoI0czGw%3D",
+        "Items": [
+            {
+                "GTIN": "5449000302106",
+                "Name": "VODA ROSA GAZ 0,5L (KOM)",
+                "Quantity": 1,
+                "Total": 44.99,
+                "UnitPrice": 44.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 37.49,
+                "VatAmount": 7.5
+            },
+            {
+                "GTIN": "5449000133960",
+                "Name": "VODA ROSA NEGAZ. 6L (KOM)",
+                "Quantity": 1,
+                "Total": 219.99,
+                "UnitPrice": 219.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 183.32,
+                "VatAmount": 36.67
+            },
+            {
+                "GTIN": "8600036006094",
+                "Name": "VRNJCI BLAGO GAZ 2L (KOM)",
+                "Quantity": 1,
+                "Total": 59.99,
+                "UnitPrice": 59.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 49.99,
+                "VatAmount": 10
+            },
+            {
+                "GTIN": "8606102572012",
+                "Name": "VODA JAZAK NEG 1,5L (KOM)",
+                "Quantity": 1,
+                "Total": 49.99,
+                "UnitPrice": 49.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 41.66,
+                "VatAmount": 8.33
+            },
+            {
+                "GTIN": "8601500133278",
+                "Name": "MLEKO MK D3 0.968L (KOM)",
+                "Quantity": 1,
+                "Total": 129.99,
+                "UnitPrice": 129.99,
+                "Label": "Е",
+                "LabelRate": 10,
+                "TaxBaseAmount": 118.17,
+                "VatAmount": 11.82
+            }
+        ]
+    },
+    {
+        "DateTime": "06.11.2023. 15:17:20",
+        "Link": "https://suf.purs.gov.rs/v/?vl=A0E0R0hVODUzQTRHSFU4NTNXIQAAKSEAAPQ/jgEAAAAAAAABi6T+vqAAAAC2om+vhQQD1zBgZVncP1ovnGyNosi1sI+/e8agh9b6RhK/z2lFKKHdWgjFRhpdTR0yGJyr3DQKFS8v6gMsyNOhJrYCi740oWGFxtvYvjhnGe9iODbFU6yq5xWrLjJp/4X52jfzmhTd9161aX1A1bSdqirFbQrvrdNbTsav82dLfSS310TD1kZaY7Alkf4/kvuq6FoHrKE5Ll4VUp052rJrhrt4UVSFh+Z6CkgdS2UkfA9j0gcakEcqdXp4eJ23QhgwcEqFv6uW1xy4ZDVnZA57JwN6T20kL3bHdVlA/qveMk6zNHZ/bDrr2Bn2pTd/89gYu9uShS7j7VU6PUEJShVPRHJZl7n9+S9dhLG43lN5rkRCSYOrmOixC0HgelH2GJci2m+ZmSzb3CMdMuAmrwt1TajACb2+Jan81j9v5Z0XkARMprXd8r/F7vz4pTagtA6bwpfkS6Z61SG2aKAJ/SG685brd5H+ME5wlieM/rztORrspbVp1YZn/0CcALWkUpP5UXwn5o2tGteYSdZ9UeGRXwTEaga4omR+ZsePZftfD1QfC3xwzjwLAOf0haoMBijAK5mwcaPH4xFjdzh0ZexC6OlQXjj0D9YuXKT4EIR10/oUlTX+q32TfgIBJEsNKjgcWM9DR7YQhWEVSzs6tGzPOqp9dfwzZcggf2Qk38/vfHxpeumBqapXPjxiBxNwplk=",
+        "Items": [
+            {
+                "GTIN": "3337875598996",
+                "Name": "3337875598996 CERAVE HIDRATANTNA / KOM",
+                "Quantity": 1,
+                "Total": 1039.99,
+                "UnitPrice": 1039.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 866.66,
+                "VatAmount": 173.33
+            },
+            {
+                "GTIN": "3337875597333",
+                "Name": "3337875597333 CERAVE HIDRATANTNA / KOM",
+                "Quantity": 1,
+                "Total": 1169.99,
+                "UnitPrice": 1169.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 974.99,
+                "VatAmount": 195
+            },
+            {
+                "GTIN": "8606021098075",
+                "Name": "8606021098075 VELNEA BUTER ZA TELO / KOM",
+                "Quantity": 1,
+                "Total": 399.99,
+                "UnitPrice": 399.99,
+                "Label": "Ђ",
+                "LabelRate": 20,
+                "TaxBaseAmount": 333.32,
+                "VatAmount": 66.67
+            }
+        ]
     }
 ]
