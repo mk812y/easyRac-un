@@ -17,13 +17,13 @@ struct ContentView: View {
         List(racunData.sorted { stringToDate($0.DateTime) > stringToDate($1.DateTime) }, id: \.self) { racun in
             VStack(alignment: .leading) {
                 Text("\(stringToDate(racun.DateTime).formatted(date: .abbreviated, time: .shortened))")
-                List {
+//                List {
                     ForEach(racun.Items, id: \.self) { item in
                         Text("Name: \(item.Name)")
                         Text("Quantity: \(item.Quantity)")
                         Text("Total: \(item.Total)")
                         Divider()
-                    }
+//                    }
                 }
             }
             .padding(.bottom, 30)
